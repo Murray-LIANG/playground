@@ -1,0 +1,7 @@
+{
+  "AAA": "AAA_Value",
+  "BBB": "BBB_Value",
+  "CCC": {
+    "DDD": "DDD_Value"
+  }
+}
